@@ -1,0 +1,37 @@
+.navbar {
+  background-color: rgb(65, 64, 64);
+  color: #fff;
+  display: flex;
+  flex-direction: row;
+  justify-content: space-between;
+  padding: 15px 15px;
+}
+
+.icon {
+  color: #fff;
+  text-decoration: none;
+  font-size: 20px;
+}
+
+.btn {
+  margin-right: 10px;
+  text-decoration: none;
+  padding: 4px 8px;
+  border: 2px solid #fff;
+  border-radius: 4px;
+}
+
+.active {
+  color: #000;
+  background-color: #fff;
+}
+
+.disable {
+  background-color: rgb(65, 64, 64);
+  color: #fff;
+  cursor: default;
+}
+
+.active:hover {
+  background-color: #ddd;
+}

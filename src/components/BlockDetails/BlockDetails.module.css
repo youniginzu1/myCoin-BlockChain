@@ -1,0 +1,13 @@
+.blockDetailsContainer {
+  margin-top: 20px;
+}
+
+.header {
+  display: flex;
+  flex-direction: row;
+  justify-content: space-around;
+}
+
+.header h4 {
+  flex: 1;
+}

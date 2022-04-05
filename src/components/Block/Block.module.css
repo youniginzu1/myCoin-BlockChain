@@ -1,0 +1,30 @@
+.blockContainer {
+  border: 2px solid #ddd;
+  border-radius: 4px;
+  margin-right: 10px;
+}
+
+.blockContainer:hover {
+  border: 2px solid rgb(202, 196, 196);
+  cursor: pointer;
+}
+
+.underline {
+  border-bottom: 2px solid #ddd;
+}
+
+.row {
+  padding: 15px 10px;
+}
+
+.genesisBlock {
+  color: rgb(126, 125, 125);
+}
+
+.redHash {
+  color: red;
+}
+
+.greenHash {
+  color: green;
+}
